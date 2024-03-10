@@ -7,5 +7,5 @@ code:
 calc.asm
 ```
 
-![Result](/task1.PNG.png "Resul task1")
+![Result](task1.PNG.png "Resul task1")
 
